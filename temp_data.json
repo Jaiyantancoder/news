@@ -1,0 +1,132 @@
+[
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid: Russia's daily deaths pass 1,000 for first time",
+        "description": "Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated.",
+        "url": "http://www.bbc.co.uk/news/world-europe-58937582",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BD2/production/_121105808_mediaitem121105807.jpg",
+        "publishedAt": "2021-10-16T10:22:26.1891964Z",
+        "content": "Image caption, A patient is taken to a specialist hospital for Covid treatment in Moscow\r\nRussia on Saturday recorded 1,000 Covid-related deaths in a single day for the first time since the pandemic … [+2054 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Myanmar army general Min Aung Hlaing excluded from leaders' summit",
+        "description": "South East Asian countries decide not to invite the military coup leader to their meeting.",
+        "url": "http://www.bbc.co.uk/news/world-asia-58938489",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1096E/production/_121105976_gettyimages-1001494204.jpg",
+        "publishedAt": "2021-10-16T10:22:22.7213097Z",
+        "content": "Image source, Getty Images\r\nImage caption, Gen Min Aung Hlaing declared himself Myanmar's prime minister in August following the military coup\r\nThe army general who seized power in Myanmar in Februar… [+2241 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sir David Amess killing was terrorism, police say",
+        "description": "The fatal stabbing of Tory MP Sir David Amess has a potential link to Islamist extremism, say detectives.",
+        "url": "http://www.bbc.co.uk/news/uk-58935372",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/144D8/production/_121106138_mediaitem121106137.jpg",
+        "publishedAt": "2021-10-16T09:37:29.8381831Z",
+        "content": "By Doug FaulknerBBC News\r\nThe killing of Conservative MP Sir David Amess is being treated as a terrorist incident by police.\r\nSir David was stabbed multiple times at his constituency surgery in Leigh… [+6781 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sir David Amess: Priti Patel pays tribute calling him 'a man of the people'",
+        "description": "Leaders lay floral tributes where the Tory MP died after police say his killing is being treated as terrorism.",
+        "url": "http://www.bbc.co.uk/news/live/uk-england-essex-58929701",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+        "publishedAt": "2021-10-16T09:37:27.2294581Z",
+        "content": "One of Sir David Amess' Southend constituents, Emma, has summed up the shock the area has felt at his death and how, as an MP, he cared about all of the people he represented and was always ready to … [+865 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pablo Escobar: Colombia sterilises drug lord's hippos",
+        "description": "Twenty-four of more than 80 hippos are sterilised after scientists warn of the environmental impact.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-58937415",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2519/production/_121079490_gettyimages-1228500670-1.jpg",
+        "publishedAt": "2021-10-16T06:52:21.2832975Z",
+        "content": "Image source, Getty Images\r\nImage caption, The hippos at Pablo Escobar's former estate are believed to be the biggest herd outside Africa\r\nA group of hippos - an unwanted legacy following the death o… [+2001 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Afghanistan: US offers to pay relatives of Kabul drone attack victims",
+        "description": "Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-58935260",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/105BB/production/_120330076_e18524e3-f821-4170-843d-8d7efa986df1.jpg",
+        "publishedAt": "2021-10-16T04:37:21.7318803Z",
+        "content": "Image caption, The aftermath of the drone strike in the Afghan capital, Kabul\r\nThe US government has offered financial compensation to the relatives of 10 people mistakenly killed by the American mil… [+3649 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Nasa's Lucy mission will seek out Solar System 'fossils'",
+        "description": "The Lucy probe will visit swarms of asteroids called trojans to gain insights on planetary origins.",
+        "url": "http://www.bbc.co.uk/news/science-environment-58927969",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33F3/production/_121099231_oneindex.jpg",
+        "publishedAt": "2021-10-16T02:22:18.3294484Z",
+        "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, Artwork: Lucy is just one in a series of Nasa missions to the Solar System's asteroids\r\nA spacecraft will launch in the coming hou… [+5943 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Fleeing the desert's shifting sands",
+        "description": "Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life.",
+        "url": "http://www.bbc.co.uk/news/science-environment-58925616",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/182AD/production/_121098989_p09ysrpd.jpg",
+        "publishedAt": "2021-10-16T01:07:25.9425925Z",
+        "content": "In northern Mauritania, people are seeing first-hand the impact of climate change. \r\nRising temperatures and desertification are wiping out communities and as the Life at 50C series has discovered, m… [+78 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Texas abortion law: Biden administration to request block on abortion ban",
+        "description": "The president's administration will ask the Supreme Court to block a restrictive Texas abortion law.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-58935257",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56E0/production/_121104222_mediaitem121104218.jpg",
+        "publishedAt": "2021-10-16T00:07:19.474568Z",
+        "content": "Image caption, The move is the latest stage of a national battle over reproductive rights\r\nUS President Joe Biden's administration has said it will ask the Supreme Court to block a restrictive Texas … [+2042 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sir Elton John scores first number one in 16 years",
+        "description": "The rock star topped the UK singles chart with Cold Heart, with the help of collaborator Dua Lipa.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-58933279",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7030/production/_121102782_eltonjohnofficialnumber1singleaward-coldheartpnauremix.jpg",
+        "publishedAt": "2021-10-15T20:22:27.1201034Z",
+        "content": "Image source, Official Charts Company\r\nImage caption, Sir Elton John has now had eight number one singles\r\nSir Elton John has topped the UK singles chart for the first time in 16 years with a little … [+2788 chars]"
+    }
+]

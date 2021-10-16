@@ -1,0 +1,14 @@
+Finished getting the source ,category ,terms from the command provided by the user.
+Finished concartinating the sorted out src || category || terms to the api url and got the results.
+Different functionalities in different functions.
+ 
+    What needs to be done? 
+        
+            * To sort out the bbc-news issue. (solved) 
+
+        * To find the logic when to call which function and the general top-headlines api call.
+        * Passing the article got from App.js to News Cards.
+        * To map out the article from the data recieved.
+        * News Cards Styles.
+        * To modify the data flow.
+        * To pass data from the sourceNews function to function App
